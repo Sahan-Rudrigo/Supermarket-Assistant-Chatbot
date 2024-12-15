@@ -1,0 +1,84 @@
+apple: Shelf 1
+banana: Shelf 2
+bread: Shelf 3
+milk: Shelf 4
+eggs: Shelf 5
+sugar: Shelf 6
+rice: Shelf 7
+pasta: Shelf 8
+coffee: Shelf 9
+tea: Shelf 10
+cheese: Shelf 11
+butter: Shelf 12
+yogurt: Shelf 13
+orange: Shelf 14
+grapes: Shelf 15
+lettuce: Shelf 16
+tomato: Shelf 17
+potato: Shelf 18
+onion: Shelf 19
+carrot: Shelf 20
+cereal: Shelf 21
+oats: Shelf 22
+beans: Shelf 23
+chicken: Shelf 24
+beef: Shelf 25
+pork: Shelf 26
+fish: Shelf 27
+shrimp: Shelf 28
+tofu: Shelf 29
+soy milk: Shelf 30
+almond milk: Shelf 31
+juice: Shelf 32
+soda: Shelf 33
+water: Shelf 34
+beer: Shelf 35
+wine: Shelf 36
+snacks: Shelf 37
+chips: Shelf 38
+crackers: Shelf 39
+cookies: Shelf 40
+cake: Shelf 41
+candy: Shelf 42
+chocolate: Shelf 43
+ice cream: Shelf 44
+frozen pizza: Shelf 45
+frozen vegetables: Shelf 46
+frozen fruits: Shelf 47
+ketchup: Shelf 48
+mustard: Shelf 49
+mayonnaise: Shelf 50
+soup: Shelf 51
+sauce: Shelf 52
+spaghetti: Shelf 53
+noodles: Shelf 54
+oil: Shelf 55
+vinegar: Shelf 56
+salt: Shelf 57
+pepper: Shelf 58
+spices: Shelf 59
+baking powder: Shelf 60
+baking soda: Shelf 61
+flour: Shelf 62
+sugar: Shelf 63
+honey: Shelf 64
+jam: Shelf 65
+peanut butter: Shelf 66
+toothpaste: Shelf 67
+shampoo: Shelf 68
+soap: Shelf 69
+detergent: Shelf 70
+cleaner: Shelf 71
+toilet paper: Shelf 72
+paper towels: Shelf 73
+napkins: Shelf 74
+aluminum foil: Shelf 75
+plastic wrap: Shelf 76
+trash bags: Shelf 77
+dog food: Shelf 78
+cat food: Shelf 79
+baby food: Shelf 80
+diapers: Shelf 81
+wipes: Shelf 82
+hand sanitizer: Shelf 83
+face masks: Shelf 84

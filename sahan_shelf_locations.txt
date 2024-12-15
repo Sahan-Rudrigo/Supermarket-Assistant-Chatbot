@@ -1,0 +1,5 @@
+Customer: sahan
+
+Apple: Shelf 1
+Tea: Shelf 10
+Coffee: Shelf 9
